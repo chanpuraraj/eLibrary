@@ -6,5 +6,5 @@ import com.nulltech.eLibrary.model.BookRoom;
 
 public interface BookRoomRepository extends JpaRepository<BookRoom, Long>
 {
-
+		
 }
