@@ -6,4 +6,3 @@ This project contains backe-end part in Java, Spring Boot and JPA. The purpose o
 •	Language and Tools: Java, Angular, GitLab, Spring MVC, JavaScript, JPA, Maven, Bootstrap, MS SQL  
 •	Created dynamic web application for students to book online study rooms of the campus library  
 •	Implemented feedback facility using natural language processing and sentimental analysis  
-•	Collaborated in a team and presented scenario to class via PowerPoint presentation  
